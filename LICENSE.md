@@ -1,4 +1,5 @@
-LICENSE
+#LICENSE
+
 Read-Only License
 
 Copyright (c) Harshith Chegondi, 2025
