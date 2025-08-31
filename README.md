@@ -1,9 +1,12 @@
 # HExpense
 H-Expense: Group Expense Tracker
 
-Mini Project Submission
+Mini Project
+
 Duration: 30-Mar-2025 to 4-May-2025
+
 Author: Harshith Chegondi
+
 Programming Language: C
 
 ------------------------------------------------------------
