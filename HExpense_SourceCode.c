@@ -3,7 +3,7 @@
 #include <string.h>
 
 //H-Expense
-// MiniProject - HarshithChegondi
+// MiniProject - Harshith Chegondi (MistyEyed)
 // 30-Mar'2025 to 4-May'2025
 
 typedef struct node { //structure of each node in linked list
@@ -269,4 +269,5 @@ int main() { //main function of the program coded here
             printf("Invalid choice. Please choose a valid option (1-8).\n");
         }
     }
+
 }
