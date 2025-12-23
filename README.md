@@ -43,10 +43,14 @@ Requirements:
 - C compiler (e.g., GCC)
 
 Compilation:
-gcc h_expense.c -o h_expense
+```bash
+gcc HExpense_SourceCode.c -o HExpense_SourceCode
+```
 
 Run the Program:
-./h_expense
+```bash
+./HExpense_SourceCode
+```
 
 ------------------------------------------------------------
 
